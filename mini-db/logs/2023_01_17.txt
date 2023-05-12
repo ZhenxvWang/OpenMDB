@@ -1,0 +1,4 @@
+
+CREATETable 学生 （学号 INT,姓名 CHAR,性别 CHAR,生日 DATA,年龄 INT）;
+CREATETABLE 学生 （学号 INT,姓名 CHAR,性别 CHAR,生日 DATA,年龄 INT）;
+CREATE 学生 （学号 INT,姓名 CHAR,性别 CHAR,生日 DATA,年龄 INT）;
